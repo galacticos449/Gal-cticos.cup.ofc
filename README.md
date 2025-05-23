@@ -90,7 +90,7 @@ SISTEMA DE CLASSIFICACAO
 
 - Semifinal:
 
- - Das 6 equipes de cada grupo, avancam as 5 melhores para a
+ - Das 6 equipes de cada grupo, avancam as 4 melhores para a
 
 Grande Final.
 
