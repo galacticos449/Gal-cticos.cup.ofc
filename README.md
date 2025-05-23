@@ -1,47 +1,125 @@
-# Gal-cticos.cup.ofc
-SITE INFORMATIVO SOBRE O CAMPEONATO GALÁCTICOS CUP 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Galácticos Cup</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #0e0e0e;
-      color: #fff;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      text-align: center;
-      padding: 20px;
-      background-color: #1c1c1c;
-    }
-    header img {
-      max-width: 300px;
-    }
-    main {
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #9f5cf2;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 15px 0;
-    }
-    table, th, td {
-      border: 1px solid #555;
-    }
-    th, td {
-      padding: 8px;
-      text-align: center;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
+REGULAMENTO OFICIAL - GALACTICOS CUP
+
+REGULAMENTO OFICIAL - GALACTICOS CUP
+
+PERMITIDO
+
+- Uso de todas as armas liberado.
+
+- Todos os personagens e recursos do jogo permitidos.
+
+- Equipes sem TAG sao aceitas.
+
+- Equipes de outras guildas tambem sao bem-vindas.
+
+- Chat usado somente para informacoes (como duvidas ou
+
+confirmacoes).
+
+- Quitar da partida e atropelamento estao liberados.
+
+PROIBIDO
+
+- Flodar o chat (mensagens repetidas) - Punição: -5 pontos.
+
+- Chamar jogadores aleatorios que nao estao inscritos - Punição: ban
+
+da sala.
+
+- Uso de bugs, hacks ou aplicativos ilegais - Banimento imediato da
+
+competicao.
+
+- Desrespeitar a staff ou jogadores - Banimento imediato.
+
+- Divulgar links de outros grupos sem permissao do ADM - Punição
+
+aplicada.
+
+INFORMACOES IMPORTANTES
+
+- Denuncias so serao aceitas com provas nítidas em video (com
+- replay ativado).
+
+- Chegar na sala com antecedencia. Caso contrario, podem jogar
+
+incompletos ou perder a vaga.
+
+- A organizacao nao se responsabiliza por atrasos de equipe.
+
+SISTEMA DE PONTUACAO (Baseado na LBFF 2022)
+
+| Colocacao | Pontos |
+
+|:---------:|:------:|
+
+| 1º lugar | 12 pontos |
+
+| 2º lugar | 9 pontos |
+
+| 3º lugar | 8 pontos |
+
+| 4º lugar | 7 pontos |
+
+| 5º lugar | 6 pontos |
+
+| 6º lugar | 5 pontos |
+
+| 7º lugar | 4 pontos |
+
+| 8º lugar | 3 pontos |
+
+| 9º lugar | 2 pontos |
+
+| 10º lugar | 1 ponto |
+
+| 11º lugar | 0 pontos |
+
+| 12º lugar | 0 pontos |
+
+- Cada abate (kill) vale +1 ponto adicional.
+
+- Penalidades (como flodar o chat) serao descontadas diretamente da
+
+pontuacao final.
+SISTEMA DE CLASSIFICACAO
+
+- Fase de Classificacao:
+
+ - Avancam para a Semifinal as 6 melhores equipes de cada grupo.
+
+- Semifinal:
+
+ - Das 6 equipes de cada grupo, avancam as 5 melhores para a
+
+Grande Final.
+
+- Grande Final:
+
+ - A final sera disputada com um total de 15 equipes.
+
+Criterios de desempate:
+
+1. Maior numero de abates no geral.
+
+2. Melhor colocacao na ultima queda jogada.
+
+3. Sorteio, se necessario.
+
+AVISO SOBRE SLOTS
+
+- Cada equipe e responsavel pelo seu slot definido previamente.
+
+- Respeitar o slot enviado pela organizacao e obrigatorio.
+
+- Caso uma equipe ocupe slot errado, podera ser penalizada com
+
+perda de pontos ou desclassificacao.
+
+- Se outro time invadir seu slot, comunique imediatamente a
+
+organizacao antes do inicio da partida.
+
+USO DO CHAT
+
+- O chat da sala devera ser utilizado exclusivamente para:
