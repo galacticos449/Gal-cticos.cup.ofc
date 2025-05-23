@@ -1,6 +1,6 @@
-REGULAMENTO OFICIAL - GALACTICOS CUP
 
-REGULAMENTO OFICIAL - GALACTICOS CUP
+
+REGULAMENTO OFICIAL - GALÁCTICOS CUP  SEASON 4
 
 PERMITIDO
 
@@ -32,7 +32,7 @@ competicao.
 
 - Desrespeitar a staff ou jogadores - Banimento imediato.
 
-- Divulgar links de outros grupos sem permissao do ADM - Punição
+- Divulgar links do grupoa id e senha sem permissao do ADM - Punição
 
 aplicada.
 
