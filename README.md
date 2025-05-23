@@ -123,3 +123,20 @@ organizacao antes do inicio da partida.
 USO DO CHAT
 
 - O chat da sala devera ser utilizado exclusivamente para:
+- Problemas com o slot (como ocupacao errada de slot ou erro na
+
+entrada).
+
+ - Remocao de jogadores (caso necessario, para banimento).
+
+ 
+
+- Mensagens aleatorias ou sem proposito nao serao toleradas.
+
+- Penalidades para uso indevido do chat:
+
+ - 1ª infracao: Advertencia (sera avisado no chat do jogo).
+
+ - Se continuar a usar o chat de forma indevida, sera aplicada a
+
+penalidade de -5 pontos por mensagem enviada apos a advertencia.
