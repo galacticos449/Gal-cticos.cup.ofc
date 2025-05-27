@@ -100,11 +100,9 @@ Grande Final.
 
 Criterios de desempate:
 
-1. Maior numero de abates no geral.
-
-2. Melhor colocacao na ultima queda jogada.
-
-3. Sorteio, se necessario.
+I - 1º Critério: Soma de Booyahs (Vitórias). II 
+- 2º Critério: Soma de abates (kills). III
+- - 3º Critério: Colocação na última queda em que as equipes empatadas participaram juntas.
 
 AVISO SOBRE SLOTS
 
