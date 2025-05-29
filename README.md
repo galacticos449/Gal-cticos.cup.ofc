@@ -29,6 +29,7 @@ da sala.
 - Uso de bugs, hacks ou aplicativos ilegais - Banimento imediato da
 
 competicao.
+e proibido coach/emulador 🚫
 
 - Desrespeitar a staff ou jogadores - Banimento imediato.
 
