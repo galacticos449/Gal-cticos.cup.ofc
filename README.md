@@ -83,6 +83,7 @@ incompletos ou perder a vaga.
 - Penalidades (como flodar o chat) serao descontadas diretamente da
 
 pontuacao final➖️.
+
  ⏳️ESTIMATIVA /CRONOGRAMA  ⬇️
 - 📅 1FASE ACONTECE 1 VEZ NA SEMANA
 - 📅  2 FASE ACONTECE 1 VEZ NA SEMANA
