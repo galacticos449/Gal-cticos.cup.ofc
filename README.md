@@ -1,54 +1,54 @@
 
 
-REGULAMENTO OFICIAL - GALÁCTICOS CUP  SEASON 5
+REGULAMENTO OFICIAL - GALÁCTICOS CUP  SEASON 5 👽
 
-PERMITIDO
+PERMITIDO 
 
-- Uso de todas as armas liberado.
+- ✅️Uso de todas as armas liberado.
 
-- Todos os personagens e recursos do jogo permitidos.
+-✅️ Todos os personagens e recursos do jogo permitidos.
 
-- Equipes sem TAG sao aceitas.
+- ✅️Equipes sem TAG sao aceitas.
 
-- Equipes de outras guildas tambem sao bem-vindas.
+- ✅️Equipes de outras guildas tambem sao bem-vindas.
 
-- Chat usado somente para informacoes (como duvidas ou
+- ❗️❗️Chat usado somente para informacoes (como duvidas ou
 
 confirmacoes).
 
-- Quitar da partida e atropelamento estao liberados.
+- ✔️Quitar da partida e atropelamento estao liberados.
 
 PROIBIDO
 
-- Flodar o chat (mensagens repetidas) - Punição: -5 pontos.
+-🚫 Flodar o chat (mensagens repetidas) - Punição: -5 pontos.
 
-- Chamar jogadores aleatorios que nao estao inscritos - Punição: ban
+- 🚫🚫Chamar jogadores aleatorios que nao estao inscritos - Punição: ban
 
 da sala.
 
-- Uso de bugs, hacks ou aplicativos ilegais - Banimento imediato da
+- 🚫🚫Uso de bugs, hacks ou aplicativos ilegais - Banimento imediato da
 
 competicao.
-e proibido coach/emulador 🚫
+e proibido coach/emulador 🚫🚫
 
-- Desrespeitar a staff ou jogadores - Banimento imediato.
+-❌️🚫 Desrespeitar a staff ou jogadores - Banimento imediato.
 
-- Divulgar links do grupoa id e senha sem permissao do ADM - Punição
+- ❌️❗️Divulgar links do grupoa id e senha sem permissao do ADM - Punição
 
 aplicada.
 
-INFORMACOES IMPORTANTES
+📌INFORMACOES IMPORTANTES
 
-- Denuncias so serao aceitas com provas nítidas em video (com
+🖼- Denuncias so serao aceitas com provas nítidas em video (com
 - replay ativado).
 
-- Chegar na sala com antecedencia. Caso contrario, podem jogar
+⏳️- Chegar na sala com antecedencia. Caso contrario, podem jogar
 
 incompletos ou perder a vaga.
 
-- A organizacao nao se responsabiliza por atrasos de equipe.
+👨🏽‍💻- A organizacao nao se responsabiliza por atrasos de equipe.
 
-SISTEMA DE PONTUACAO (Baseado na LBFF 2022)
+💬 SISTEMA DE PONTUACAO (Baseado na LBFF 2022)
 
 | Colocacao | Pontos |
 
@@ -78,12 +78,21 @@ SISTEMA DE PONTUACAO (Baseado na LBFF 2022)
 
 | 12º lugar | 0 pontos |
 
-- Cada abate (kill) vale +1 ponto adicional.
+-☠️ Cada abate (kill) vale +1 ponto adicional.
 
 - Penalidades (como flodar o chat) serao descontadas diretamente da
 
-pontuacao final.
-SISTEMA DE CLASSIFICACAO
+pontuacao final➖️.
+ ⏳️ESTIMATIVA /CRONOGRAMA  ⬇️
+- 📅 1FASE ACONTECE 1 VEZ NA SEMANA
+- 📅  2 FASE ACONTECE 1 VEZ NA SEMANA
+- 📅  3 FASE ⛈️  SEG/TER
+- 📅  4 FASE SEXTA
+- 📅  5 FASE SEGUNDA
+- 📅  6 FASE SEXTA
+- 📌TODOS AS DATA SERÃO  ENVIADAS  DIAS ANTES DO HORÁRIO  PROGRAMADO  NO GRUPO DE ID E SENHA.
+
+ 🧮SISTEMA DE CLASSIFICACAO
 
 - Fase de Classificacao:
 
@@ -105,21 +114,21 @@ I - 1º Critério: Soma de Booyahs (Vitórias). II
 - 2º Critério: Soma de abates (kills). III
 - - 3º Critério: Colocação na última queda em que as equipes empatadas participaram juntas.
 
-AVISO SOBRE SLOTS
+🪂 AVISO SOBRE SLOTS ❗️
 
-- Cada equipe e responsavel pelo seu slot definido previamente.
+- ✍️Cada equipe e responsavel pelo seu slot definido previamente.
 
-- Respeitar o slot enviado pela organizacao e obrigatorio.
+- ✍️Respeitar o slot enviado pela organizacao e obrigatorio.
 
-- Caso uma equipe ocupe slot errado, podera ser penalizada com
+-🎮 Caso uma equipe ocupe slot errado, podera ser penalizada com
 
-perda de pontos ou desclassificacao.
+perda de pontos ou desclassificacao.por tanto prestem muita atenção  ✍️
 
-- Se outro time invadir seu slot, comunique imediatamente a
+-❗️❗️❗️ Se outro time invadir seu slot, comunique imediatamente a
 
-organizacao antes do inicio da partida.
+organizacao  1 no chat do jogo, 2 no wtts do responsável  pela sala e explique para ser resolvido antes do inicio da partida caso não faça  isso se aplicar as regras - 125.
 
-USO DO CHAT
+👨🏼‍💻USO DO CHAT
 
 - O chat da sala devera ser utilizado exclusivamente para:
 - Problemas com o slot (como ocupacao errada de slot ou erro na
@@ -130,7 +139,7 @@ entrada).
 
  
 
-- Mensagens aleatorias ou sem proposito nao serao toleradas.
+-🚫 Mensagens aleatorias ou sem proposito nao serao toleradas.
 
 - Penalidades para uso indevido do chat:
 
